@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @mkermit-git
-- 👀 I’m interested in mobile development for kids and adults, chat-bots, videogames and traveling
+- 👀 I’m interested in mobile apps, chat-bots, videogames and sci-fi
 - 🌱 I’m currently learning Kotlin, JavaScript
 - 💞️ I’m looking to collaborate with devs, designers and teachers
-- 📫 How to reach me @m_kermit and mamakermitapps@gmail.com
+- 📫 How to reach me: telegram @m_kermit and mamakermitapps@gmail.com
 - 😄 Pronouns: ???
-- ⚡ Fun fact: I'm almost 8 years in programming but started using git just now
-- ❤️ Personal fact: I have an autistic child
+- ⚡ Fun fact: I hate birthdays 
+- ❤️ Personal fact: I like Kermit the frog
 
 <!---
 mkermit-git/mkermit-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
